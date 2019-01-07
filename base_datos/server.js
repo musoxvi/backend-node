@@ -1,5 +1,4 @@
 const sqlite3 = require('sqlite3');
-console.log('hola')
 
 let db = new sqlite3.Database('proyecto-backend');
 
